@@ -1,0 +1,222 @@
+### Genie 3 相关关键词最终整理
+#### 最终关键词列表
+以下关键词按类别整理，表格形式呈现，便于查看。每个类别针对网站不同页面（如首页、FAQ、博客）或SEO用途。
+
+##### 1. 核心品牌与产品关键词 (Core Brand & Product Terms)
+适合首页、标题及品牌相关内容优化。
+
+| 关键词 |
+|--------|
+| Genie 3 |
+| Genie 3 AI |
+| DeepMind Genie 3 |
+| Google Genie 3 |
+| Google Genie |
+| Genie AI |
+| AI world model |
+| Genie 3 world model |
+| Google DeepMind new model |
+| World models AI |
+| Genie 3 AI tool |
+| Genie 3 world generator |
+| DeepMind AI simulator |
+| genie 3 google |
+| google world model |
+| google deepmind |
+
+##### 2. 功能与技术关键词 (Features & Technology)
+聚焦Genie 3的实时交互、生成能力等，适合特性页面或技术博客。
+
+| 关键词 |
+|--------|
+| Interactive 3D environments |
+| Real-time world simulation |
+| Playable AI worlds |
+| Text-to-3D world |
+| AI environment generator |
+| Virtual world builder |
+| Interactive world simulation |
+| Real-time AI environment |
+| Real-time AI generator |
+| Interactive simulations |
+| Real-time 3D worlds |
+| Foundation world model |
+| Embodied AI |
+| Promptable events |
+| 3D world generation |
+| Promptable world events |
+| AI game generation |
+| Playable game generation |
+| AI video generation |
+| Generative interactive environments |
+| Text-to-video |
+| Image-to-video |
+| Text-to-game |
+| Generative AI models |
+| Google 2D game AI |
+| Real-time interactive world model |
+| 720p 24fps interactive environments |
+| World memory and long-horizon consistency |
+| Physics-consistent AI simulation |
+| Autoregressive world model |
+| Text-to-world AI |
+| Create interactive worlds from text |
+| Navigate AI-generated worlds |
+| AI world creator |
+| Interactive virtual environments |
+| Genie 3 interactive simulation |
+| Genie 3 real-time interactive simulation |
+| Generate with Genie 3 |
+| Explore Genie 3 worlds |
+| Genie 3 interactive |
+| Genie 3 real-time |
+| Genie 3 720p |
+| DeepMind world builder |
+| AI playable environments |
+| Dynamic world generation |
+| AI-driven simulation |
+| Persistent world model |
+| Real-time AI |
+
+##### 3. 用户意图长尾词 (Long-tail & User Intent)
+针对教程、评测、案例、价格、API等，适合博客、子页面或广告。
+
+| 关键词 |
+|--------|
+| Genie 3 for AGI |
+| Genie 3 robot training |
+| Genie 3 hallucinations |
+| Genie 3 for game development |
+| Genie 3 VR |
+| AI agent training |
+| Interactive simulation |
+| Genie 3 AGI |
+| Google Genie tutorial |
+| How to use Google Genie |
+| How to use Google Genie AI |
+| Create games with Google Genie |
+| Google Genie prompts |
+| Google Genie prompt examples |
+| Google Genie explained |
+| Google Genie review |
+| Google Genie alternative |
+| Sora competitors |
+| Best text to video AI |
+| Google Genie reaction |
+| Google Genie demo |
+| Google Genie demo video |
+| Google Genie examples |
+| Google Genie showcase |
+| Google Genie gameplay |
+| Google Genie price |
+| Is Google Genie free |
+| Free AI video generator |
+| Google Genie access |
+| Google Genie early access |
+| How to get access to Google Genie |
+| Google Genie waitlist |
+| Google Genie download |
+| Google Genie login |
+| Google Genie for android |
+| Google Genie API |
+| Google Genie Github |
+| Google Genie system requirements |
+| Can I use Genie for commercial projects |
+| Genie 3 AI free |
+| Genie 3 AI app |
+| Genie 3 AI alternatives |
+| Best Genie 3 alternatives |
+| Genie 3 for games |
+| Genie 3 demo |
+| Genie 3 download |
+| Genie 3 explained |
+| Genie 3 gameplay |
+| Genie 3 tutorial |
+| Genie 3 examples |
+| Genie 3 limitations |
+| Genie 3 features and limitations |
+| Genie 3 for robotics simulation |
+| Procedural game level generation |
+| AI for immersive gaming |
+| Virtual reality world builder |
+| Robot training environments |
+| Reinforcement learning world model |
+| Autonomous vehicle simulation |
+| Virtual lab simulations |
+| Emergency training simulations |
+| Genie 3 research preview access |
+| Genie 3 demo video |
+| Genie 3 developer guide |
+| Genie 3 API documentation |
+| World model research blog |
+| Genie 3 setup guide |
+| Genie 3 sample worlds |
+| How to create with Genie 3 |
+| genie 3 how to use |
+| genie 3 world |
+| genie 3 game |
+| Genie 3 for developers |
+
+##### 4. 问题查询词 (Question Keywords)
+适合FAQ页面或文章标题，解决用户常见疑问。
+
+| 关键词 |
+|--------|
+| What is Genie 3 AI? |
+| How does Genie 3 work? |
+| Genie 3 release date |
+| Is Genie 3 available? |
+| Genie 3 how it works? |
+| What is Google Genie? |
+| What can Google Genie do? |
+| How does Google Genie work? |
+| When is Google Genie release date? |
+| When is Google Genie coming out? |
+| Google Genie limitations |
+| Google Genie features |
+| Google Genie announcement |
+| Google Genie Google I/O |
+| How to get access to Genie 3 |
+| Why use Genie 3? |
+| What makes Genie 3 unique? |
+| Is Genie 3 open source? |
+
+##### 5. 比较与竞品关键词 (Comparative & Competitor Keywords)
+用于比较页面，突出Genie 3与竞品的差异。
+
+| 关键词 |
+|--------|
+| Genie 3 vs Genie 2 |
+| Genie 3 competitors |
+| Meta world model |
+| Genie 3 vs Veo 3 |
+| Genie 3 Veo 3 |
+| Genie 3 SIMA |
+| Genie vs Sora |
+| Is Google Genie better than Sora |
+| Genie 3 vs Sora |
+| Genie 3 vs Runway Gen-3 |
+| World model vs text-to-video |
+| DeepMind world model vs NVIDIA/Meta approaches |
+
+##### 6. 应用用例与技术研究词 (Use-Case & Technical Terms)
+适合用例页面或针对专业用户的研究内容。
+
+| 关键词 |
+|--------|
+| Embodied AI training |
+| Synthetic data for agents |
+| Neural physics simulation |
+| Long-horizon memory |
+| Interactive simulation benchmark |
+| Genie 3 for VR gaming |
+| Genie 3 for AI research |
+| Genie 3 training simulations |
+
+#### 使用建议
+- **首页SEO**：使用核心品牌词（如“Genie 3 AI”、“google deepmind”）和功能词（如“real-time interactive world model”）。
+- **FAQ页面**：覆盖问题查询（如“What is Genie 3 AI?”、“How to get access to Genie 3”）。
+- **博客/子页面**：用长尾词（如“Genie 3 for game development”、“Genie 3 tutorial”）和用例词（如“AI for immersive gaming”）。
+- **广告文案**：突出差异化功能（如“720p 24fps interactive environments”、“promptable world events”）。[](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+
+如果您需要进一步筛选（如按搜索量排序）、生成关键词优先级，或基于这些关键词提供网站页面结构示例，请提供更多细节！

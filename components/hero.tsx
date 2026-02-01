@@ -10,16 +10,18 @@ export function Hero() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-8">
             <div className="space-y-4">
+              <div className="inline-block px-4 py-1.5 rounded-full bg-blue-100 text-blue-700 font-semibold text-sm mb-2">
+                Powered by Google's Genie 3 World Model
+              </div>
               <h1 className="text-4xl lg:text-6xl font-bold tracking-tight">
                 Transform Text Into Interactive 3D Worlds with{" "}
                 <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Genie 3 AI
+                  Project Genie
                 </span>
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                Google DeepMind's revolutionary <strong>Genie 3 AI</strong> world model that generates playable AI worlds in real-time at 720p
-                resolution and 24fps performance. Experience the future of real-time interactive world model technology where your imagination
-                becomes an interactive reality. <strong>Genie 3 AI</strong> creates persistent, physics-consistent virtual environments with promptable world events.
+                Experience <strong>Google's Project Genie (Genie 3)</strong>, the revolutionary world model that generates playable AI worlds in real-time.
+                Go beyond video generation—interact, play, and reshape your environment with promptable world events and physics-consistent simulation.
               </p>
             </div>
 
@@ -27,11 +29,14 @@ export function Hero() {
               <Button size="lg" className="bg-blue-600 hover:bg-blue-700" asChild>
                 <a href="https://youtube.com/watch?v=PDKhUknuQDg" target="_blank" rel="noopener noreferrer">
                   <Play className="mr-2 h-5 w-5" />
-                  Watch Demo Video
+                  Watch Demo
                 </a>
               </Button>
-              <Button size="lg" variant="outline">
-                Request Access
+              <Button size="lg" variant="outline" asChild>
+                {/* Scroll to the Access Guide section */}
+                <a href="#access-guide">
+                  How to Try Genie 3
+                </a>
               </Button>
             </div>
 
@@ -41,46 +46,52 @@ export function Hero() {
                   <Zap className="h-6 w-6 text-blue-600" />
                 </div>
                 <div className="font-bold text-lg">24fps</div>
-                <div className="text-sm text-gray-600">Real-time generation</div>
+                <div className="text-sm text-gray-600">Real-time action</div>
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center mb-2">
                   <Monitor className="h-6 w-6 text-purple-600" />
                 </div>
-                <div className="font-bold text-lg">720p HD</div>
-                <div className="text-sm text-gray-600">Interactive environments</div>
+                <div className="font-bold text-lg">Interactive</div>
+                <div className="text-sm text-gray-600">Playable worlds</div>
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center mb-2">
                   <Clock className="h-6 w-6 text-green-600" />
                 </div>
-                <div className="font-bold text-lg">Minutes</div>
-                <div className="text-sm text-gray-600">Consistent gameplay</div>
+                <div className="font-bold text-lg">Physics</div>
+                <div className="text-sm text-gray-600">Consistent laws</div>
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center mb-2">
                   <Globe className="h-6 w-6 text-orange-600" />
                 </div>
-                <div className="font-bold text-lg">Unlimited</div>
-                <div className="text-sm text-gray-600">World diversity</div>
+                <div className="font-bold text-lg">World Model</div>
+                <div className="text-sm text-gray-600">Next-gen AI</div>
               </div>
             </div>
           </div>
 
-          <div className="relative">
-            <div className="aspect-video rounded-2xl overflow-hidden shadow-2xl">
+          <div className="relative group">
+            <div className="aspect-video rounded-2xl overflow-hidden shadow-2xl border-4 border-white/50 relative">
+              {/* Simulating a video play feel with an overlay or actual video if available. Using Image for now but with overlay to suggest interactivity as requested */}
               <Image
                 src="/img/genie3-intro.jpg"
-                alt="Genie 3 AI virtual world 3D environment interactive simulation real-time generation"
+                alt="Google Genie 3 Project - Interactive World Model"
                 width={800}
                 height={600}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700"
                 priority
               />
+              <div className="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-transparent transition-colors">
+                <div className="w-16 h-16 bg-white/90 rounded-full flex items-center justify-center shadow-lg backdrop-blur-sm cursor-pointer hover:scale-110 transition-transform">
+                  <Play className="h-8 w-8 text-blue-600 ml-1" />
+                </div>
+              </div>
             </div>
-            <div className="absolute -bottom-6 -right-6 bg-white rounded-xl p-4 shadow-lg border">
-              <div className="text-sm font-medium text-gray-900">Live Demo</div>
-              <div className="text-xs text-gray-600">Interactive 3D World</div>
+            <div className="absolute -bottom-6 -right-6 bg-white rounded-xl p-4 shadow-lg border animate-bounce-slow">
+              <div className="text-sm font-medium text-gray-900">Generative World Model</div>
+              <div className="text-xs text-blue-600">Try it in Labs</div>
             </div>
           </div>
         </div>

@@ -11,14 +11,21 @@ import { FAQ } from "@/components/faq"
 import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 
+import { TechExplanation } from "@/components/tech-explanation"
+import { InteractiveFeatures } from "@/components/interactive-features"
+import { AccessGuide } from "@/components/access-guide"
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
       <main>
         <Hero />
-        <Features />
+        <TechExplanation />
         <VideoDemo />
+        <InteractiveFeatures />
+        <AccessGuide />
+        <Features />
         <HowItWorks />
         <Comparison />
         <UseCases />

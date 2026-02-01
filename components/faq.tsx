@@ -3,29 +3,29 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 export function FAQ() {
   const faqs = [
     {
-      question: "What is Genie 3 AI?",
+      question: "When is the Google Genie 3 release date?",
       answer:
-        "Genie 3 AI is Google DeepMind's revolutionary world model that generates interactive 3D environments from text prompts. Unlike traditional AI video generators, it creates truly playable worlds that users can navigate and interact with in real-time.",
+        "Project Genie (Genie 3) is currently in a closed experimental phase. While a public release date hasn't been officially announced by Google DeepMind, early access is rolling out to select Google AI Ultra subscribers in the US via Google Labs.",
     },
     {
-      question: "How does Genie 3 AI differ from Sora or Runway?",
+      question: "How can I get Project Genie access?",
       answer:
-        "While Sora and Runway generate static videos, Genie 3 AI creates interactive environments. You can navigate through generated worlds, interact with objects, and modify environments in real-time while maintaining consistency for minutes.",
+        "Access is currently limited. The official way to try Genie 3 is by checking the Google Labs portal. We recommend subscribing to Google AI Ultra for the best chance of receiving an invitation to the preview.",
     },
     {
-      question: "What resolution and frame rate does Genie 3 AI support?",
+      question: "Is Genie 3 the same as Sora or Runway?",
       answer:
-        "Genie 3 AI generates interactive worlds at 720p resolution running at 24 frames per second, providing smooth, high-quality experiences suitable for gaming and professional applications.",
+        "No. While Sora and Runway generate passive video clips, Genie 3 is a 'Generative World Model'. This means it creates interactive, playable environments where you can control characters and consistency is maintained via a physics simulation.",
     },
     {
-      question: "How can I access Genie 3 AI?",
+      question: "What are 'Promptable World Events'?",
       answer:
-        "Genie 3 AI is currently available through Google DeepMind's research preview program. You can apply for early access through our waitlist. Commercial API access will be announced following the preview period.",
+        "This feature allows you to use text commands to modify the world in real-time. You can type commands like 'add a storm' or 'spawn a vehicle', and the world model will update the simulation instantly while keeping the rest of the world consistent.",
     },
     {
-      question: "What are the main applications for Genie 3 AI?",
+      question: "Can I use my own images?",
       answer:
-        "Genie 3 AI excels in game development, robotics training, educational simulations, VR/AR content creation, and AI research. Its interactive nature makes it ideal for any application requiring explorable virtual environments.",
+        "Yes! Genie 3 supports 'Image-to-World' and 'Sketch-to-World' capabilities, allowing you to upload photos or simple drawings to serve as the blueprint for your generated 3D environment.",
     },
     {
       question: "Can Genie 3 AI maintain world consistency over time?",

@@ -20,18 +20,18 @@ export function InteractiveFeatures() {
                     <Card className="bg-gray-800 border-gray-700 overflow-hidden group">
                         <div className="aspect-video relative overflow-hidden bg-black/50">
                             {/* Placeholder for Sketch to World Video/Image */}
-                            <div className="absolute inset-0 flex items-center justify-center text-gray-500">
+                            <div className="absolute inset-0 flex items-center justify-center text-gray-500 z-10">
                                 <div className="text-center">
-                                    <Pencil className="h-12 w-12 mx-auto mb-2 opacity-50" />
-                                    <span className="text-sm">Sketch-to-World Demo</span>
+                                    <Pencil className="h-12 w-12 mx-auto mb-2 text-white/80 drop-shadow-md" />
+                                    <span className="text-sm text-white/90 font-medium drop-shadow-md">Sketch-to-World Demo</span>
                                 </div>
                             </div>
                             <Image
-                                src="/img/sketch-demo-placeholder.jpg" // Placeholder path, assuming existence or will gracefully fail visually
-                                alt="Sketch to world demonstration"
+                                src="https://images.unsplash.com/photo-1544531586-fde5298cdd40?w=800&h=600&fit=crop"
+                                alt="Sketch to world demonstration - architectural drawing"
                                 layout="fill"
                                 objectFit="cover"
-                                className="opacity-50 group-hover:opacity-75 transition-opacity"
+                                className="opacity-40 group-hover:opacity-60 transition-opacity duration-500"
                             />
                         </div>
                         <CardContent className="p-8">
@@ -53,18 +53,18 @@ export function InteractiveFeatures() {
                     {/* Image to World */}
                     <Card className="bg-gray-800 border-gray-700 overflow-hidden group">
                         <div className="aspect-video relative overflow-hidden bg-black/50">
-                            <div className="absolute inset-0 flex items-center justify-center text-gray-500">
+                            <div className="absolute inset-0 flex items-center justify-center text-gray-500 z-10">
                                 <div className="text-center">
-                                    <ImageIcon className="h-12 w-12 mx-auto mb-2 opacity-50" />
-                                    <span className="text-sm">Image-to-World Demo</span>
+                                    <ImageIcon className="h-12 w-12 mx-auto mb-2 text-white/80 drop-shadow-md" />
+                                    <span className="text-sm text-white/90 font-medium drop-shadow-md">Image-to-World Demo</span>
                                 </div>
                             </div>
                             <Image
-                                src="/img/image-demo-placeholder.jpg"
-                                alt="Image to world demonstration"
+                                src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop"
+                                alt="Image to world demonstration - nature landscape"
                                 layout="fill"
                                 objectFit="cover"
-                                className="opacity-50 group-hover:opacity-75 transition-opacity"
+                                className="opacity-40 group-hover:opacity-60 transition-opacity duration-500"
                             />
                         </div>
                         <CardContent className="p-8">

@@ -61,6 +61,17 @@ export function Footer() {
                   Blog
                 </Link>
               </li>
+              <li className="pt-4 text-gray-500 font-bold uppercase text-xs">Trending Now</li>
+              <li>
+                <Link href="#comparison" className="text-blue-400 hover:text-blue-300 transition-colors">
+                  Genie 3 vs Sora
+                </Link>
+              </li>
+              <li>
+                <Link href="#access-diagnostic" className="text-blue-400 hover:text-blue-300 transition-colors">
+                  Access Eligibility Check
+                </Link>
+              </li>
             </ul>
           </div>
 

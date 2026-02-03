@@ -15,12 +15,15 @@ import { TechExplanation } from "@/components/tech-explanation"
 import { InteractiveFeatures } from "@/components/interactive-features"
 import { AccessGuide } from "@/components/access-guide"
 
+import { AccessDiagnostic } from "@/components/access-diagnostic"
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
       <main>
         <Hero />
+        <AccessDiagnostic />
         <TechExplanation />
         <VideoDemo />
         <InteractiveFeatures />

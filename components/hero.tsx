@@ -11,31 +11,30 @@ export function Hero() {
           <div className="space-y-8">
             <div className="space-y-4">
               <div className="inline-block px-4 py-1.5 rounded-full bg-blue-100 text-blue-700 font-semibold text-sm mb-2">
-                Powered by Google's Genie 3 World Model
+                Independent Research & Access Guide
               </div>
               <h1 className="text-4xl lg:text-6xl font-bold tracking-tight">
-                Transform Text Into Interactive 3D Worlds with{" "}
-                <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Project Genie
-                </span>
+                Explore Google’s Genie 3: The <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Unofficial Guide & Community Hub</span>
               </h1>
+              <p className="text-sm text-gray-500 italic">
+                Independent research & access guide for DeepMind's latest world model. Not affiliated with Google.
+              </p>
               <p className="text-xl text-gray-600 leading-relaxed">
                 Experience <strong>Google's Project Genie (Genie 3)</strong>, the revolutionary world model that generates playable AI worlds in real-time.
-                Go beyond video generation—interact, play, and reshape your environment with promptable world events and physics-consistent simulation.
+                Go beyond video generation—interact, play, and reshape your environment.
               </p>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="bg-blue-600 hover:bg-blue-700" asChild>
-                <a href="https://youtube.com/watch?v=PDKhUknuQDg" target="_blank" rel="noopener noreferrer">
-                  <Play className="mr-2 h-5 w-5" />
-                  Watch Demo
+                <a href="#access-diagnostic">
+                  Check Access Eligibility
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
-                {/* Scroll to the Access Guide section */}
-                <a href="#access-guide">
-                  How to Try Genie 3
+                <a href="https://youtube.com/watch?v=PDKhUknuQDg" target="_blank" rel="noopener noreferrer">
+                  <Play className="mr-2 h-5 w-5" />
+                  Watch 24fps Real-time Demo
                 </a>
               </Button>
             </div>
